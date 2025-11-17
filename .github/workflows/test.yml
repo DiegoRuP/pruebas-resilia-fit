@@ -29,10 +29,10 @@ jobs:
     
     - name: Generar reporte de cobertura
       run: |
-        echo "📊 Cobertura de Tests:"
+        echo "Cobertura de Tests:"
         flutter test --coverage
         if [ -f coverage/lcov.info ]; then
-          echo "✅ Archivo de cobertura generado"
+          echo " Archivo de cobertura generado"
         fi
     
     - name: Subir reporte de cobertura (opcional)
