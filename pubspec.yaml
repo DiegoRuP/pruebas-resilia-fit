@@ -36,7 +36,7 @@ dependencies:
   cloud_firestore: 5.6.9
   cloud_firestore_platform_interface: 6.6.9
   cloud_firestore_web: 4.4.9
-  collection: 1.19.1
+  #collection: 1.19.1
   csslib: 1.0.2
   csv: 6.0.0
   dropdown_button2: 2.3.9
