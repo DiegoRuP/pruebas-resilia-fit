@@ -1,0 +1,7 @@
+# Firebase - NUNCA subir estas configuraciones
+lib/firebase/firebase_config.dart
+lib/**/firebase_config.dart
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+firebase_options.dart
+.firebase/
